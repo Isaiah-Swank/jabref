@@ -1,4 +1,5 @@
 # JabRef Bibliography Management
+I am editing the read-me file
 
 JabRef is an open-source, cross-platform citation and reference management tool.
 
